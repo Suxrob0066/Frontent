@@ -1,0 +1,26 @@
+
+
+
+.main3__card-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+ }
+ .main3_card{
+    flex-direction: column;
+    max-width: 350px;
+    min-height: 562px;
+    padding: 20px;
+    display: flex;    
+ }
+ .card_img{
+    max-width:100%;
+    border-radius: 10px;
+ }
+   .main3_title{
+    padding:20px 0;
+ }
+  .card_img:hover{
+   transform: translateY(20px);
+  }

@@ -1,0 +1,24 @@
+
+.main1{
+   
+    max-width: 100%;
+    background-color: #EBD96B;
+    height: 150px;
+    display: flex;
+     align-items: center;
+     justify-content: center;
+    
+    }
+
+    .main1_list{
+        max-width: 1300px;
+        display: flex;
+        justify-content:space-between;
+        align-items: center;
+        list-style: none;
+        gap: 90px;
+    
+    }
+    .main1_img{
+        width: 90px;
+    }
